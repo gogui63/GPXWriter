@@ -1,0 +1,7 @@
+#Wed Jan 11 10:18:26 CET 2017
+base.0=/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c2c72227de8fd735eb4d5e3d603d9390b3146d5a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2647a32ecca1b485012c666c350e595214ae0a61/classes.dex
+base.1=/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2647a32ecca1b485012c666c350e595214ae0a61
+file.0=/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c2c72227de8fd735eb4d5e3d603d9390b3146d5a/classes.dex

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="689b36e0831353e1b2e6fea1a24db7172d03403c">
+        <dex dex="/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79c4511718b43fb85580021d4cce8a2649205c3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautier/.android/build-cache/1d978aff90da7d11eb567611868922f613f522e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f56e8c49e801cc2942e1f7251c69d743bbce58f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ee97f5e05fd6cf6bb7928299c985f660eae1ea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e866101b41163a0c18389f6bb3526ba10f148b0">
+        <dex dex="/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c2c72227de8fd735eb4d5e3d603d9390b3146d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fadb286755322aaaf03484e62370b1a2c5e1a75">
+        <dex dex="/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2647a32ecca1b485012c666c350e595214ae0a61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautier/.android/build-cache/8a78f88831f7a8a2898e6f8fd9c564f449729f8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00a587c0513cc4570a092ac3a7d1d6d4e20a12ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gautier/.android/build-cache/c27d21b1db66e005a289e77aa7fa4fe8763b1205/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_516df455776fb5c5ef160970c7ac04fa780dcd7a/classes.dex" />
+    </item>
+
+</items>

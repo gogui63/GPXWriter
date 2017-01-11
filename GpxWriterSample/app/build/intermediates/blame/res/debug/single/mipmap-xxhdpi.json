@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/gautier/Android/Projets/GpxWriterSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/gautier/Android/Projets/GpxWriterSample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/gautier/.android/build-cache/1d978aff90da7d11eb567611868922f613f522e1/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/gautier/.android/build-cache/1d978aff90da7d11eb567611868922f613f522e1/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

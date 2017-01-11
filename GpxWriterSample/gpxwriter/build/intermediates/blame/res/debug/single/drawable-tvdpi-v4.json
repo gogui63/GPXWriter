@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/res/merged/debug/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png"
+    }
+]

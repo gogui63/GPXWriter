@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/gautier/.android/build-cache/faa4d22d453047f8ab37733913cfbc58cffa41f2/output/AndroidManifest.xml:9:5-20
+MERGED from [GpxWriterSample:gpxwriter:unspecified] /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/bundles/default/AndroidManifest.xml:14:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/gautier/.android/build-cache/68f52565c922c0434ee8a1a9a290a23deb7ebd48/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/gautier/.android/build-cache/13fe8a9f11a393f3a2388f83df68ed72073e290a/output/AndroidManifest.xml:23:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:18:5-33:19
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/gautier/.android/build-cache/1d978aff90da7d11eb567611868922f613f522e1/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/gautier/.android/build-cache/c27d21b1db66e005a289e77aa7fa4fe8763b1205/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/gautier/.android/build-cache/8a78f88831f7a8a2898e6f8fd9c564f449729f8e/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.1.0] /Users/gautier/.android/build-cache/a2918bbb9fd73b16104a3f6997f571b4fe67d364/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/gautier/.android/build-cache/0a528bd9fc36a192e8b959c9566beb95bda191eb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/gautier/.android/build-cache/7b5347adc97a8f87026f9047e6ac58a4b676779c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/gautier/.android/build-cache/25a12861fb74aa7f4368f4a9cc67df19cf7f4ce3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/gautier/.android/build-cache/957227fd3f8a803791daba9d9b621d4beb2f9c8a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/gautier/.android/build-cache/c1499148f9c6578bac3782aad2d1bda65915925e/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:11:9-40
+activity#fr.gautierragueneau.gpxwritersample.MainActivity
+ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/gautier/.android/build-cache/faa4d22d453047f8ab37733913cfbc58cffa41f2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [GpxWriterSample:gpxwriter:unspecified] /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/gautier/.android/build-cache/68f52565c922c0434ee8a1a9a290a23deb7ebd48/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/gautier/.android/build-cache/13fe8a9f11a393f3a2388f83df68ed72073e290a/output/AndroidManifest.xml:21:5-43
+MERGED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/gautier/.android/build-cache/1d978aff90da7d11eb567611868922f613f522e1/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/gautier/.android/build-cache/c27d21b1db66e005a289e77aa7fa4fe8763b1205/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/gautier/.android/build-cache/a9c54ccdc3912408a8deb966763f64c2c6731f3c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/gautier/.android/build-cache/8a78f88831f7a8a2898e6f8fd9c564f449729f8e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.1.0] /Users/gautier/.android/build-cache/a2918bbb9fd73b16104a3f6997f571b4fe67d364/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/gautier/.android/build-cache/0a528bd9fc36a192e8b959c9566beb95bda191eb/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/gautier/.android/build-cache/7b5347adc97a8f87026f9047e6ac58a4b676779c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/gautier/.android/build-cache/25a12861fb74aa7f4368f4a9cc67df19cf7f4ce3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/gautier/.android/build-cache/957227fd3f8a803791daba9d9b621d4beb2f9c8a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /Users/gautier/.android/build-cache/c1499148f9c6578bac3782aad2d1bda65915925e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [GpxWriterSample:gpxwriter:unspecified] /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/bundles/default/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [GpxWriterSample:gpxwriter:unspecified] /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/bundles/default/AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [GpxWriterSample:gpxwriter:unspecified] /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/bundles/default/AndroidManifest.xml:18:9-21:45
+MERGED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:29:9-32:45
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/gautier/.android/build-cache/8a78f88831f7a8a2898e6f8fd9c564f449729f8e/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [GpxWriterSample:gpxwriter:unspecified] /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/bundles/default/AndroidManifest.xml:20:13-66
+		REJECTED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:31:13-36
+		REJECTED from [com.google.android.gms:play-services-basement:8.4.0] /Users/gautier/.android/build-cache/8a78f88831f7a8a2898e6f8fd9c564f449729f8e/output/AndroidManifest.xml:23:13-66
+	tools:replace
+		ADDED from [GpxWriterSample:gpxwriter:unspecified] /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/bundles/default/AndroidManifest.xml:21:13-42
+	android:name
+		ADDED from [GpxWriterSample:gpxwriter:unspecified] /Users/gautier/Android/Projets/GPXWriter/GpxWriterSample/gpxwriter/build/intermediates/bundles/default/AndroidManifest.xml:19:13-58
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/gautier/.android/build-cache/c27d21b1db66e005a289e77aa7fa4fe8763b1205/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.1] /Users/gautier/.android/build-cache/c0c79edf24d2a2e292d3192bfc15f8fbaed32fdd/output/AndroidManifest.xml:26:13-120
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/gautier/.android/build-cache/c27d21b1db66e005a289e77aa7fa4fe8763b1205/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/gautier/.android/build-cache/c27d21b1db66e005a289e77aa7fa4fe8763b1205/output/AndroidManifest.xml:21:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/gautier/.android/build-cache/c27d21b1db66e005a289e77aa7fa4fe8763b1205/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/gautier/.android/build-cache/c27d21b1db66e005a289e77aa7fa4fe8763b1205/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/gautier/.android/build-cache/c27d21b1db66e005a289e77aa7fa4fe8763b1205/output/AndroidManifest.xml:24:8-31

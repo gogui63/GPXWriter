@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/gautier/Android/Projets/GpxWriterSample/gpxwriter/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/gautier/.android/build-cache/d999fcb88fe601ccfafba24b47d70b14b40fe5a9/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
